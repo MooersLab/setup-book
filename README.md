@@ -16,7 +16,7 @@ I also have the Sapling extension activated for Overleaf. Sapling supports the u
 
 I have everything working smoothly with these book projects, where dozens of tex files are compiled to form the final document. The experience is as smooth as using a commercial application like Scrivner. For example, I have a lab notebook that compiles more than 365 tex documents for a given year into a single pdf.  The initial setup of the files took some optimizing, but it has been working smoothly for many years. 
 
-One powerful aspect of LaTeX is that the index with hyperlinks that can be assembled as you write rather than at the end of the project when you are too tired of the project to do a good job with the index. I find the indices of most books to be wanting because of this last-minute approach to their assembly. The other powerful aspect is the automated assembly of table of contents with hyperlinks. There is a memory limitation on the number of indices that you include.
+LaTeX allows you to assemble the index as you write. This approach is better than at the end of the project when you are unlikely to do an excellent job with the index. I find the index of most books to be wanting because of this last-minute approach to their assembly. The other powerful aspect is the automated generation of the table of contents with hyperlinks. There is a memory limitation on the number of indices that you include.
 
 I store this script in a folder called 2000BookTemplates in my home directory.
 I have mapped this script to an alias stored in my `.bashrc` or `.zshrc` file: 
