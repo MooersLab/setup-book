@@ -12,7 +12,7 @@ My workflow involves writing the book in LaTeX on Overleaf. I have additional su
 
 I could assemble and edit the book with laulatex, xelatex, or pdflatex locally using a text editor like  Emacs, Vim, VSC, TextMate, SublimeText, or Atom. However, I find the Overleaf environment easier for debugging LaTeX code. I use Chrome with Overleaf. I have activated the Language Tool extension for Chrome to provide grammar checking in Overleaf. 
 
-I also have the Sapling extension activated for Overleaf. Sapling supports the use of 20 snippets for the free version. I made a ![snippet library](https://github.com/MooersLab/LaTeXsnippetsInWebpages) of LaTeX code that I frequently use. These snippets save time.
+I also have the Sapling extension activated for Overleaf. Sapling supports the use of 20 snippets for the free version. I made a [snippet library](https://github.com/MooersLab/LaTeXsnippetsInWebpages) of LaTeX code that I frequently use. These snippets save time.
 
 I have everything working smoothly with these book projects, where dozens of tex files are compiled to form the final document. The experience is as smooth as using a commercial application like Scrivner. For example, I have a lab notebook that compiles more than 365 tex documents for a given year into a single pdf.  The initial setup of the files took some optimizing, but it has been working smoothly for many years. 
 
